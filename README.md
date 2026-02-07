@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=haedal-uni)-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaedal-uni&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=notion&link=https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)](https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)</a>                     -->
 
 ## Blog
@@ -38,12 +38,9 @@ Here are some ideas to get you started:
 
 <br>                 
 
-## 현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
-### sub project : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)
-      
+## Project
+
+### main : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
+### sub : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)   
 #### ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
-
-<br>  
-
-![haedal-uni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haedal-uni&count_private=true&show_icons=true&theme=dracula)
 
