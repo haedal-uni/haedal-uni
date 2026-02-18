@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=notion&link=https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)](https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)</a>                     -->
 
-## Blog
-#### 2022.07 ~ ⭐ https://haedal-uni.github.io/ ⭐ 
-##### 2021.09 ~  https://lu-delight.tistory.com/               
-
-<br>
 
 ## Stack
 <!-- <p align="center"> -->
@@ -43,4 +38,11 @@ Here are some ideas to get you started:
 ### main : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
 ### sub : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)   
 #### ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
+
+<br>
+
+## Blog
+https://haedal-uni.github.io/               
+
+
 
