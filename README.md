@@ -34,10 +34,16 @@ Here are some ideas to get you started:
 <br>                 
 
 ## Project
+### Team Project
+#### main : [***dal-cho***](https://github.com/dal-cho) (SpringBoot/MySQL)
+#### sub : [socket](https://github.com/haedal-uni/socket) (SpringBoot / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)   
+***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
 
-### main : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
-### sub : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)   
-#### ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
+<br>
+
+### 개인 프로젝트 
+#### [***eng***](https://github.com/haedal-uni/eng) (SpringBoot/MySQL/Python)
+
 
 <br>
 
