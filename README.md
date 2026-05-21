@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 👥 Team Project
 * **Main : [adme (dal-cho)](https://github.com/dal-cho)**
-    * **Description:** 팀 프로젝트 메인 서비스
+    * **Description:** 이제 ‘나’를 기록하세요. 
     * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     
 * **Sub : [socket](https://github.com/haedal-uni/socket)**
