@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Projects
 
 ### 👥 Team Project
-* **Main : [adme (dal-cho)](https://github.com/haedal-uni/eng)**
+* **Main : [adme (dal-cho)](https://github.com/dal-cho)**
     * **Description:** 팀 프로젝트 메인 서비스
     * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     * **Description:** 영어 학습 사이트
     * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-* **📦 Archive : [haedal-project](https://github.com/haedal-uni/eng)**
+* **📦 Archive : [haedal-project](https://github.com/haedal-project)**
     * **Description:** Flask, Spring 기반의 개인 토이 프로젝트 및 학습 내용 정리용 통합 Repository
     * **Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 
