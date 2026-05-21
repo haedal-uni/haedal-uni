@@ -33,22 +33,33 @@ Here are some ideas to get you started:
 
 <br>                 
 
-## Project
-### Team Project
-#### main : [***dal-cho***](https://github.com/dal-cho) (SpringBoot/MySQL)
-#### sub : [socket](https://github.com/haedal-uni/socket) (SpringBoot / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)   
-***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
+## Projects
+
+### 👥 Team Project
+* **Main : [adme (dal-cho)](https://github.com/haedal-uni/eng)**
+    * **Description:** 팀 프로젝트 메인 서비스
+    * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    
+* **Sub : [socket](https://github.com/haedal-uni/socket)**
+    * **Description:** `adme` 서비스 내 실시간 채팅 및 알림 시스템 (Sub)
+    * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> `SSE` <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 <br>
 
-### 개인 프로젝트 
-#### [***eng***](https://github.com/haedal-uni/eng) (SpringBoot/MySQL/Python)
+### 👤 Individual Project
+* **[eng](https://github.com/haedal-uni/eng)**
+    * **Description:** 영어 학습 사이트
+    * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+* **📦 Archive : [haedal-project](https://github.com/haedal-uni/eng)**
+    * **Description:** Flask, Spring 기반의 개인 토이 프로젝트 및 학습 내용 정리용 통합 Repository
+    * **Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 
-<br>
+---
 
-## Blog
-https://haedal-uni.github.io/               
+## ✍️ Blog
+* [Github - Blog](https://haedal-uni.github.io/)
+          
 
 
 
