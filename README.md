@@ -1,5 +1,5 @@
 <!--
-**Lluora/Lluora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**haedal-uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,14 +42,14 @@ Here are some ideas to get you started:
     
 * **Sub : [socket](https://github.com/haedal-uni/socket)**
     * **Description:** `adme` 서비스 내 실시간 채팅 및 알림 시스템 (Sub)
-    * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> `SSE` <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> `SSE` <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 <br>
 
 ### 👤 Individual Project
 * **[eng](https://github.com/haedal-uni/eng)**
-    * **Description:** 영어 학습 사이트
-    * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    * **Description:** 퀴즈 오답 데이터 기반 AI 맞춤 피드백을 제공하는 영어 학습 사이트 
+    * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
 * **📦 Archive : [haedal-project](https://github.com/haedal-project)**
     * **Description:** Flask, Spring 기반의 개인 토이 프로젝트 및 학습 내용 정리용 통합 Repository
