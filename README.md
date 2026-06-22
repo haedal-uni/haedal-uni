@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 <br>
 
 ### 👤 Individual Project
+* **[overwatch](https://github.com/haedal-uni/overwatch)**
+    * **Description:** 오버워치 영웅 상성·운영 정보를 문서 기반으로 답변하는 RAG 챗봇
+    * **Tech Stack:** <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/>
+    
 * **[eng](https://github.com/haedal-uni/eng)**
     * **Description:** 퀴즈 오답 데이터 기반 AI 맞춤 피드백을 제공하는 영어 학습 사이트 
     * **Tech Stack:** <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
